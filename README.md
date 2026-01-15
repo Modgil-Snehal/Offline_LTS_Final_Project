@@ -13,7 +13,7 @@ The system primarily focuses on **Indian regional languages**, ensuring privacy,
 
 ## Key Features
 - Fully **offline translation**
-- Supports multiple Indian and international languages
+- Supports multiple Indian languages
 - Uses **Transformer-based pretrained models (IndicTrans2)**
 - GUI (Tkinter) and CLI support
 - Privacy-preserving (no cloud APIs)

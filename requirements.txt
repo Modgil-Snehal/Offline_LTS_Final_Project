@@ -3,4 +3,4 @@ transformers
 IndicTransToolkit
 sentencepiece
 sacremoses
-tk
+tkinter
